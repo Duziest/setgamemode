@@ -6,7 +6,7 @@ import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerJoinEvent;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public final class GamemodeOnJoin extends JavaPlugin implements Listener {
+public final class SetGamemode extends JavaPlugin implements Listener {
 
     GameMode gamemode;
 
