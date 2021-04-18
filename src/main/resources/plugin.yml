@@ -1,0 +1,6 @@
+name: SetGamemode
+version: 1.0
+main: me.duz.gamemodeonjoin.GamemodeOnJoin
+api-version: 1.16
+authors: [Duziest]
+description: Sets gamemode of players on join.
